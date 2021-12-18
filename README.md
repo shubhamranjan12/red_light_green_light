@@ -24,4 +24,4 @@ Implemention OverView.
 How  to play:
 - Once the project is cloned, just run python3 red_light_green_light.py
 
-![Demo](red_light_green_light/game.gif)
+![Demo](game.gif)
